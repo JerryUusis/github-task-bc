@@ -10,3 +10,5 @@
 - connect remote repository
     - `git remote add origin https://github.com/JerryUusis/github-task-bc.git`
 - try not to make changes in GH
+
+Bonus line added from remote repo
